@@ -188,7 +188,7 @@ footer p {
   }
 
   main #about img {
-    width: 20%;
+    width: 23%;
     flex: 1;
     margin: 10px;
   }
@@ -204,6 +204,7 @@ footer p {
 
   main #host img {
     width: 49%;
+    margin: 10px;
   }
 }
 
